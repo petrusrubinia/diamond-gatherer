@@ -1,1 +1,1 @@
-# diamont-gatherer
+# diamond-gatherer
